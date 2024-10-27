@@ -63,5 +63,6 @@ The platform generates revenue through:
 ### Backend Setup (Django):
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fikra-online.git
+   git clone https://github.com/Alrefa3i/FikraOnline.git
    cd fikra-online/backend
+```
