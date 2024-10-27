@@ -64,5 +64,5 @@ The platform generates revenue through:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Alrefa3i/FikraOnline.git
-   cd fikra-online/backend
+   cd backend/EduBridge
 ```
